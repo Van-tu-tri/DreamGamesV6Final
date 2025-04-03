@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9e8b76e9fc5cb434d8144fa1e59ae06e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redCubePrefab: {fileID: 4861734663489924324, guid: 12e0a1bc1654d2243bbb7f3ad7eb357e, type: 3}
+  - blueCubePrefab: {fileID: 4502865215899097050, guid: 7c6d243f1a32b46429aa5cfcfc2198d1, type: 3}
+  - greenCubePrefab: {fileID: 8699130736828981910, guid: 8386311186e74db45ad8560cbf5d25c6, type: 3}
+  - yellowCubePrefab: {fileID: 7674855161899482636, guid: 52c6fe1c54d67b147939ddc04f2417cb, type: 3}
+  - horizontalRocketPrefab: {fileID: 4523737096457703837, guid: 32f8aa7faefa5264f90d64ea091c724d, type: 3}
+  - boxPrefab: {fileID: 3169860451967166901, guid: 0ea786f0e9e4284489307cdeb997f583, type: 3}
+  - stonePrefab: {fileID: 5878907615042035361, guid: 645477c8117d8bf46a1f7eddf5b54e51, type: 3}
+  - vasePrefab: {fileID: 807080775992565086, guid: 7c8dab72ae7bf1d41badb95c37b449ed, type: 3}
+  - referenceCube: {fileID: 7674855161899482636, guid: 52c6fe1c54d67b147939ddc04f2417cb, type: 3}
+  - redCubeHint: {instanceID: 0}
+  - blueCubeHint: {instanceID: 0}
+  - greenCubeHint: {instanceID: 0}
+  - yellowCubeHint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
